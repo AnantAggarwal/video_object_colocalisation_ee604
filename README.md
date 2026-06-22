@@ -1,7 +1,7 @@
 # Unsupervised Video Object Co-Localization
 
 This repository contains a modular, high-performance, and fully unsupervised pipeline for Video Object Co-localization (VOCL) and segmentation. The project utilizes state-of-the-art self-supervised Vision Transformers to discover, track, and segment recurring foreground objects across unlabeled video collections without any fine-tuning or human annotations.
-
+ 
 ---
 
 ## Key Achievements & Methodology
